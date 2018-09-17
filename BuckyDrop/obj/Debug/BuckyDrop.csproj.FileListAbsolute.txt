@@ -1,0 +1,35 @@
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\bin\Debug\BuckyDrop.exe.config
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\bin\Debug\BuckyDrop.exe
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\bin\Debug\BuckyDrop.pdb
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\obj\Debug\BuckyDrop.csprojResolveAssemblyReference.cache
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\obj\Debug\BuckyDrop.Form1.resources
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\obj\Debug\BuckyDrop.Properties.Resources.resources
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\obj\Debug\BuckyDrop.csproj.GenerateResource.Cache
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\obj\Debug\BuckyDrop.exe
+C:\Users\Demir\AppData\Local\Temporary Projects\BuckyDrop\obj\Debug\BuckyDrop.pdb
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\bin\Debug\BuckyDrop.exe.config
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.exe
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.pdb
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\bin\Debug\BuckyDrop.exe
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\bin\Debug\BuckyDrop.pdb
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.Form1.resources
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.Properties.Resources.resources
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csproj.GenerateResource.Cache
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csprojAssemblyReference.cache
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Documents\Visual Studio 2015\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csproj.CopyComplete
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\bin\Debug\BuckyDrop.exe.config
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\bin\Debug\BuckyDrop.exe
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\bin\Debug\BuckyDrop.pdb
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.Form1.resources
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.Properties.Resources.resources
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csproj.GenerateResource.cache
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csproj.CopyComplete
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.exe
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.pdb
+C:\Users\Demir\Documents\Visual Studio 2017\Projects\BuckyDrop\BuckyDrop\obj\Debug\BuckyDrop.csprojAssemblyReference.cache
