@@ -4,5 +4,4 @@ Buckydrop.com is an E-Commerce platform similar to a shopify.com. It allows user
 I created a simple WinForm application which allows you bulk uploading. 
 
 Application GUI:
-
-http://prntscr.com/kwsyvi
+![alt text](https://image.prntscr.com/image/qu-qVXyjTfuxRGBb-xdIOw.png)
