@@ -1,5 +1,4 @@
 # BuckyDrop-ImportProducts
-Buckydrop.com is and E-Commerce platform similar to aand shopify.com. It allows users to create their stores in a few clicks. They allow you to import products in a bulk from different sources like 1688.com.
+Buckydrop.com is an E-Commerce platform similar to a shopify.com. It allows users to create their own stores jsut in a few clicks. They allow you to import products from other E-Commerce platforms like 1688.com. The problem with Buckydrop.com is that users can't import links in bulk.
 
-dfc 
-'hg dddsd 
+I created simple Win32
